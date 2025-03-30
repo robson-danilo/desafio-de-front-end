@@ -1,5 +1,5 @@
 import axios from 'axios';
-export default class Account {
+export default class Home {
 
   static async getOpenWeather(lat, lon) {
     try {
